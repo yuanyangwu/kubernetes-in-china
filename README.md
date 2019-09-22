@@ -14,6 +14,7 @@
     - [01.06_Kubernetes集群](01_安装Docker和Kubernetes/01.06_Kubernetes集群.md)
   - 02_用Helm部署应用
     - [02.01_安装Helm](02_用Helm部署应用/02.01_安装Helm.md)
+    - [02.02_用Helm部署MetalLB_Load_Balancer](02_用Helm部署应用/02.02_用Helm部署MetalLB_Load_Balancer.md)
     - [02.02_用Helm部署Ingress](02_用Helm部署应用/02.02_用Helm部署Ingress.md)
   - 附录A_中国国内的镜像
     - [附录A.1_Docker和Kubernetes的镜像](附录A_中国国内的镜像/附录A.1_Docker和Kubernetes的镜像.md)
