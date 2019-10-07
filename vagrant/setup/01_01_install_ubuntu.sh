@@ -2,7 +2,7 @@
 
 # Applicable K8S Node: All
 
-cat | sudo tee /etc/apt/sources.list <<EOF
+cat <<EOF | sudo tee /etc/apt/sources.list
 
 deb http://mirrors.aliyun.com/ubuntu/ xenial main
 deb-src http://mirrors.aliyun.com/ubuntu/ xenial main

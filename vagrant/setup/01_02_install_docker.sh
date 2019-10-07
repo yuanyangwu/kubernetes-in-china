@@ -15,7 +15,7 @@ sudo apt-cache madison docker-ce | grep 18.09
 sudo apt-get install -y docker-ce=5:18.09.8~3-0~ubuntu-xenial docker-ce-cli=5:18.09.8~3-0~ubuntu-xenial
 sudo apt-mark hold docker-ce
 
-cat | sudo tee /etc/docker/daemon.json <<EOF
+cat <<EOF | sudo tee /etc/docker/daemon.json
 {
   "registry-mirrors": ["https://dockerhub.azk8s.cn"]
 }
