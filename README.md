@@ -15,7 +15,7 @@
   - 02_用Helm部署应用
     - [02.01_安装Helm](02_用Helm部署应用/02.01_安装Helm.md)
     - [02.02_用Helm部署MetalLB_Load_Balancer](02_用Helm部署应用/02.02_用Helm部署MetalLB_Load_Balancer.md)
-    - [02.02_用Helm部署Ingress](02_用Helm部署应用/02.02_用Helm部署Ingress.md)
+    - [02.03_用Helm部署Istio_Service_Mesh](02_用Helm部署应用/02.03_用Helm部署Istio_Service_Mesh.md)
   - 附录A_中国国内的镜像
     - [附录A.1_Docker和Kubernetes的镜像](附录A_中国国内的镜像/附录A.1_Docker和Kubernetes的镜像.md)
     - [附录A.2_Docker_Image的镜像](附录A_中国国内的镜像/附录A.2_Docker_Image的镜像.md)
